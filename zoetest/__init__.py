@@ -1,1 +1,1 @@
-import mytest
+from mytest import mysample
